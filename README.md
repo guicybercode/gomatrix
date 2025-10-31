@@ -1,8 +1,16 @@
 # gomatrix
 
+<div align="center">
+
 > A colorful terminal matrix rain effect with Hangul characters
 
+<img src="mat.png" width="400"/>
+<img src="mat2.png" width="400"/>
+
+
 A mesmerizing terminal screensaver inspired by `cmatrix`, but with a vibrant rainbow color scheme and beautiful Korean Hangul syllables cascading down your screen. Built with Go, Bubble Tea, and Lip Gloss.
+
+</div>
 
 ---
 
