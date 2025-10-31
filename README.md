@@ -1,4 +1,4 @@
-# 🌈 gomatrix
+# gomatrix
 
 > A colorful terminal matrix rain effect with Hangul characters
 
